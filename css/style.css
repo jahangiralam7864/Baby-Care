@@ -1,0 +1,13 @@
+body{
+  background-color: gray;  
+}
+.heading{
+    width: 300px;
+    background-color: green;
+    height: 300px;
+}
+.heading h1{
+    align-items: center;
+    justify-content: center;
+    
+}
